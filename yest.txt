@@ -1,1 +1,1 @@
-sudo apt update && sudo apt install update-manager-core && /usr/lib/ubuntu-release-upgrader/do-release-upgrade
+sudo apt update && sudo apt install update-manager -y && update-manager -d
